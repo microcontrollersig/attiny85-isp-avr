@@ -17,7 +17,7 @@ Still need an AVR ISP programmer. I bought a [USBAsp](https://core-electronics.c
 
 The 10-pin connector on the jaycar/silicon chip board is standard 10-pin ISP header
 
-![AVR ISP pinouts](https://telecnatron.com/reference/pinouts/avr-isp/avr-isp-pinout-345x.png)
+![AVR ISP pinouts](http://www.learningaboutelectronics.com/images/AVR-programmer-10-pin-cable-pinout.png)
 
 
 The attiny85 slots exactly at the top of SK1 (with Jumpers J2 and J3 shorted)
